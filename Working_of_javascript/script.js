@@ -36,7 +36,7 @@ hoisting. */
   console.log(fname); //undefined
   console.log(age); // reference error
   console.log(lname); // reference error
-  var fname = "balaji";
+  var fname = "bg";
   let age = 25;
   const lname = "g";
   console.log(fname);
